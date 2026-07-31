@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="absha-character.png" alt="Absha" width="110">
-  <img src="crocmarine-logo.png" alt="CrocMarine Logo" width="320">
+  <img src="absha-character.png" alt="Absha" width="110" align="left">
+  <img src="crocmarine-logo.png" alt="CrocMarine Logo" width="320" align="right">
 </p>
+<div style="clear: both;"></div>
 
 <h1 align="center">
   <span style="color:#00ff66; text-shadow: 0 0 8px #00ff66, 0 0 18px #00ff66, 0 0 30px #00ff66;">
