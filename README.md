@@ -7,8 +7,6 @@
  Training Improvement Ideas
 </h1>
 
-<p align="center"><em style="color:#00cc55;">We Creep In Deep</em></p>
-
 ---
 
 ## Purpose
