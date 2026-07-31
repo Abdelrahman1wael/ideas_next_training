@@ -1,14 +1,10 @@
 <p align="center">
-  <img src="absha-character.png" alt="Absha" width="110" align="left">
+  <img src="absha-character.png"  width="110" align="left">
   <img src="crocmarine-logo.png" alt="CrocMarine Logo" width="320" align="right">
 </p>
-<div style="clear: both;"></div>
 
 <h1 align="center">
-  <span style="color:#00ff66; text-shadow: 0 0 8px #00ff66, 0 0 18px #00ff66, 0 0 30px #00ff66;">
-    ABSHA
-  </span>
-  &nbsp;×&nbsp; CrocMarine — Team Improvement Ideas
+ CrocMarine — Training Improvement Ideas
 </h1>
 
 <p align="center"><em style="color:#00cc55;">We Creep In Deep</em></p>
@@ -54,19 +50,6 @@ All assignments should be documented using a **common template** that includes t
 - Every team member has the opportunity to document and share what they learned.
 - Completed assignments are published to our shared repo.
 - Other members ("mates") can reuse this knowledge instead of researching from scratch.
-
-**Suggested template sections:**
-
-| Section | Description |
-|---|---|
-| **Title** | Name of the assignment/task |
-| **Author** | Who completed it |
-| **Date** | Completion date |
-| **Objective** | What the task aimed to solve |
-| **Approach / Tools Used** | Methods, libraries, references used |
-| **Result** | Outcome, with screenshots/output if relevant |
-| **Notes / Lessons Learned** | Anything useful for the next person |
-| **Status** | Done / In Progress / Needs Review |
 
 > Every assignment doc should carry the CrocMarine logo in the header (see example above) to keep a consistent, recognizable format across the repo.
 
