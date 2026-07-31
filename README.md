@@ -1,6 +1,6 @@
 <p align="center">
   <img src="absha-character.png"  width="110" align="left">
-  <img src="crocmarine-logo.png" alt="CrocMarine Logo" width="320" align="right">
+  <img src="crocmarine-logo.png" alt="Screenshot 2026-07-19 003104" width="320" align="right">
 </p>
 
 <h1 align="center">
