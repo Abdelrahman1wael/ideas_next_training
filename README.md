@@ -1,10 +1,16 @@
 <p align="center">
+  <img src="absha-character.png" alt="Absha" width="110">
   <img src="crocmarine-logo.png" alt="CrocMarine Logo" width="320">
 </p>
 
-<h1 align="center">CrocMarine — Team Improvement Ideas</h1>
+<h1 align="center">
+  <span style="color:#00ff66; text-shadow: 0 0 8px #00ff66, 0 0 18px #00ff66, 0 0 30px #00ff66;">
+    ABSHA
+  </span>
+  &nbsp;×&nbsp; CrocMarine — Team Improvement Ideas
+</h1>
 
-<p align="center"><em>We Creep In Deep</em></p>
+<p align="center"><em style="color:#00cc55;">We Creep In Deep</em></p>
 
 ---
 
